@@ -24,8 +24,3 @@ Neste projeto, utilizei as seguintes tecnologias:
 
 ---
 
-## 💻 Como Rodar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/eduubrz/projeto-dragon-ball.git
