@@ -21,3 +21,12 @@ Neste projeto, utilizei as seguintes tecnologias:
 - 🧑‍🤝‍🧑 **Lista de Personagens**: Cada personagem de Dragon Ball tem sua própria seção com informações sobre suas habilidades, origem e muito mais.
 - 🌟 **Animações**: Utilização de animações CSS para tornar a experiência do usuário mais dinâmica e divertida.
 - 🎮 **Interatividade**: Botões e seções interativas que permitem navegar entre diferentes personagens e descobrir curiosidades.
+
+---
+
+## 💻 Como Rodar o Projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/eduubrz/projeto-dragon-ball.git
+
